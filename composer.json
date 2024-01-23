@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-    "kriswallsmith/assetic": ">=1.4"
+    "kriswallsmith/assetic": "dev-master"
     },
     "require-dev": {
         "patchwork/jsqueeze": "~1.0",
